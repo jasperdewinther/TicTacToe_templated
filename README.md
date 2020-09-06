@@ -1,3 +1,3 @@
 Tic tac toe assignment for "C++ programming & Software engineering 2"
 
-I had to practice C++ templates for an upcomming exam, so i went completely overboard and created this.
+With the goal of learning C++ templates I implemented tic tac toe recursively. This will allow you to win games to claim squares in the upper levels.
